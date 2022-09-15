@@ -38,3 +38,4 @@ cacheSolve <- function(x, ...) {    # Devolve a matrix inversa de x
   x$setInverse(verso)
   verso
 }
+
